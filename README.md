@@ -2,26 +2,39 @@
 
 
 
-#### MSDS Candidate @ Northwestern | MIT-Certified Data Scientist | ML \& DevOps Engineer
+#### Founder \& Global Risk Architect | AI Engineer | MSDS Candidate @ Northwestern | MIT-Certified Data Scientist
 
 
 
-##### Strategic professional bridging 15+ years of leadership in Finance and Risk Management with technical expertise in Computer Vision and Data Engineering.
-
-###### 
-
-##### 🛠 Technical Ecosystem
+###### Strategic professional bridging 15+ years of leadership in Finance and Risk Management with deep technical expertise in AI Engineering, Data Engineering, and Hardened Cloud Infrastructure (MLOps)
 
 
 
-* **AI \& Machine Learning:** Deep Learning (CNNs, VGG16), Transfer Learning, Recommendation Systems, Classification \& Hypothesis Testing, Regression \& Prediction.
-* **Unstructured Data \& Analysis:** Making Sense of Unstructured Data, Networking and Graphical Models, Dimensionality Reduction (PCA, t-SNE), and Foundations of Python and Statistics.
-* **Data Engineering \& DevOps:** Docker, Kubernetes (AKS), Terraform, Ansible, CI/CD (Jenkins, GitHub Actions), AWS, Azure.
-* **Monitoring \& Observability:** Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana).
+
+
+##### 🛠 **Technical Ecosystem**
 
 
 
-##### **📂 Portfolio Projects**
+* **AI Engineering:** Model Deployment via FastAPI, Productionization of Reinforcement Learning, CNNs (VGG16), Transfer Learning, and LLM Orchestration.
+* **Data Engineering (AWS):** ETL Pipeline Design (Glue), Data Warehousing (Redshift), Query Optimization (Athena), and Scalable Ingestion (Kinesis/S3).
+* **MLOps \& Cloud Infrastructure:** Docker, Kubernetes (AKS), Terraform, Ansible, Jenkins, GitHub Actions.
+* **Monitoring \& Security:** Zero-Knowledge Encryption, Secret Management (Vault), Prometheus, Grafana, ELK Stack.
+
+
+
+##### **📂 Portfolio Archive**
+
+
+
+###### **🚀 Upcoming Project: AI-Powered Medical Imaging API (Q3 2026)**
+
+###### *Transitioning theoretical computer vision into a production-grade AI microservice.*
+
+
+
+* **The Goal:** Wrap the MIT-based Brain Tumor MRI Classifier into a robust FastAPI orchestration layer to demonstrate real-time inference and high-availability deployment.
+* **The Architecture:**  Containerized deployment via Docker, managed through an automated Jenkins/GitOps CI/CD pipeline, and served as a scalable RESTful endpoint.
 
 
 
@@ -42,10 +55,10 @@
 
 
 
-* **Automated CI/CD Pipeline for Microservices**: Full-stack pipeline with security scanning and Kubernetes deployment.
-* **Predictive Auto-Scaling for Financial APIs**: Demand-forecasting using \*\*TensorFlow\*\* to automate infrastructure scaling.
-* **AI-Powered Infrastructure Monitoring**: Anomaly detection using the \*\*ELK Stack\*\* and ML to predict failures.
-* **Scalable Serverless Application with DevOps:** Cost-efficient deployment via \*\*Terraform\*\* and \*\*AWS Lambda\*\*.
+* [**Automated CI/CD Pipeline for Microservices**](https://github.com/bladebenjamin/Automated-CI-CD-Pipeline-for-Microservices): Full-stack pipeline with security scanning and Kubernetes deployment.
+* [**Predictive Auto-Scaling for Financial APIs**](https://github.com/bladebenjamin/Predictive-Auto-Scaling-for-High-Traffic-Applications): Demand-forecasting using \*\*TensorFlow\*\* to automate infrastructure scaling.
+* [**AI-Powered Infrastructure Monitoring**](https://github.com/bladebenjamin/AI-Powered-Infrastructure-Monitoring): Anomaly detection using the \*\*ELK Stack\*\* and ML to predict failures.
+* [**Scalable Serverless Application with DevOps**](https://github.com/bladebenjamin/Scalable-Serverless-Application-with-DevOps)**:** Cost-efficient deployment via \*\*Terraform\*\* and \*\*AWS Lambda\*\*.
 
 
 
@@ -53,21 +66,17 @@
 
 
 
-**Master of Science in Data Science** (Candidate): Northwestern University (Admission Pending Spring 2026).
-
-**DSML Professional Certificate**: MIT Institute for Data, Systems, and Society (2025).
-
-**DevOps with AI Masters Certification**: Skillfyme.com (In Progress).
-
-**B.S., Finance and Real Estate**: Florida State University (2004)
+* **Master of Science in Data Science** (Candidate): Northwestern University (Admission Pending Spring 2026).
+* **DSML Professional Certificate**: MIT Institute for Data, Systems, and Society (2025).
+* **AWS Data \& AI Engineering Certification** (In Progress)
+* **DevOps with AI Masters Certification** (In Progress).
+* **CTO Program (Incoming)**: MIT (Fall 2026)
+* **B.S., Finance and Real Estate**: Florida State University (2004)
 
 
 
 ##### **📫 Connect with Me**
 
-LinkedIn: linkedin.com/in/bladebenjamin
-
-Email: blade.benjamin@gmail.com
-
-Location: Miami, FL
-
+* LinkedIn: linkedin.com/in/bladebenjamin
+* Email: blade@apexflowtech.io
+* Location: Miami, FL | Global Risk Architect
