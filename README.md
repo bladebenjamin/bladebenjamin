@@ -40,12 +40,11 @@
 
 ###### **Machine Learning \& Computer Vision (MIT IDSS)**
 
-
-
-* [Brain Tumor MRI Classifier](https://github.com/bladebenjamin/Brain-Tumor-Image-Classifier): Computer Vision utilizing CNNs and VGG16 Transfer Learning for binary classification.
-* [Music Recommendation System](https://github.com/bladebenjamin/Music-Recommendation-System): Utilizing Collaborative Filtering and Matrix Factorization to predict user preferences.
-* [Used Car Price Prediction](https://github.com/bladebenjamin/Used-Car-Price-Prediction): Supervised Learning (Regression) project using Ridge Regression for market pricing.
-* [EdTech Lead Prediction](https://github.com/bladebenjamin/EdTech-Potential-Lead-Prediction): Supervised Learning (Classification) system using Random Forests and Decision Trees.
+* **[Amazon Product Recommendation System](https://github.com/bladebenjamin/amazon-recommendation-system):** Engineered a multi-model engine (Rank-based, Collaborative Filtering, and SVD) to predict shopping preferences.
+    * **Dataset:** [Download Amazon Electronics Ratings](https://drive.google.com/file/d/1XahZcR287ke7j48I7-oj0KzmmwSSvA3Y/view?usp=sharing)
+* **[Brain Tumor MRI Classifier](https://github.com/bladebenjamin/Brain-Tumor-Image-Classifier):** Computer Vision utilizing CNNs and VGG16 Transfer Learning for binary classification.
+* **[Customer Personality Segmentation](https://github.com/bladebenjamin/Customer-Personality-Segmentation):** An Unsupervised Learning project using K-Means Clustering to identify distinct customer profiles to optimize targeted marketing.
+* **[EdTech Lead Prediction](https://github.com/bladebenjamin/EdTech-Potential-Lead-Prediction):** Supervised Learning (Classification) system using Random Forests and Decision Trees.
 
 
 
