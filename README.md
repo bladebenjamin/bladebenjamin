@@ -40,7 +40,7 @@
 
 ###### **Machine Learning \& Computer Vision (MIT IDSS)**
 
-* **[Amazon Product Recommendation System](https://github.com/bladebenjamin/amazon-recommendation-system):** Engineered a multi-model engine (Rank-based, Collaborative Filtering, and SVD) to predict shopping preferences.
+* **[Amazon Product Recommendation System](https://github.com/bladebenjamin/Amazon-Product-Recommendation):** Engineered a multi-model engine (Rank-based, Collaborative Filtering, and SVD) to predict shopping preferences.
     * **Dataset:** [Download Amazon Electronics Ratings](https://drive.google.com/file/d/1XahZcR287ke7j48I7-oj0KzmmwSSvA3Y/view?usp=sharing)
 * **[Brain Tumor MRI Classifier](https://github.com/bladebenjamin/Brain-Tumor-Image-Classifier):** Computer Vision utilizing CNNs and VGG16 Transfer Learning for binary classification.
 * **[Customer Personality Segmentation](https://github.com/bladebenjamin/Customer-Personality-Segmentation):** An Unsupervised Learning project using K-Means Clustering to identify distinct customer profiles to optimize targeted marketing.
